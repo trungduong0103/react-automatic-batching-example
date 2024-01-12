@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: left;
+}
+
+label {
+  padding-right: 5px;
+}
+
+div {
+  padding-bottom: 10px;
+}
